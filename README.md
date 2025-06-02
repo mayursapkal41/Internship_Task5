@@ -14,6 +14,12 @@ To explore the Titanic dataset and extract meaningful insights using visual and 
 
 ---
 
+## 🖼️ Sample Visual Preview
+
+![Titanic EDA Preview](titanic_eda_overview.png)
+*Example: Age vs Fare Scatterplot colored by Survival*
+
+---
 
 ## ✅ Tasks Completed
 
@@ -44,7 +50,6 @@ To explore the Titanic dataset and extract meaningful insights using visual and 
   - High fare passengers tended to survive more.
   - Passengers with small families onboard had better chances of survival.
 
-
 ---
 
 ## 👀 Sample Visuals Included
@@ -52,4 +57,6 @@ To explore the Titanic dataset and extract meaningful insights using visual and 
 - Heatmap of correlations
 - Histograms and boxplots
 - Scatterplot with hue for survival
+
+---
 
