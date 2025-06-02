@@ -17,7 +17,7 @@ To explore the Titanic dataset and extract meaningful insights using visual and 
 ## 🖼️ Sample Visual Preview
 
 ![Titanic EDA Preview](titanic_eda_overview.png)
-*Example: Age vs Fare Scatterplot colored by Survival*
+
 
 ---
 
